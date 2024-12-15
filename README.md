@@ -9,11 +9,11 @@ I took to succesfully root my android phone.
 Note that the process may vary in several ways, mainly depending on model
 of the phone you are trying to root. This guide is written specifically
 for my Samsung Galaxy J5 (2016), however most of the steps should be
-similar if you are lucky and the start allign correctly.
+similar if you are lucky and the stars allign correctly.
 
 To root a phone we need something with root priviledges to grant us
-the same status. Of course, stock Android will never let us get even a little
-of this for security reasons so we need to find a workaround.
+the same status. Of course, stock Android will never let us get even a glimpse
+of this power for security reasons so we need to find a workaround.
 The solution is to boot a cusom recovery image, that has
 high priviledges, which will let us install some applications with
 root status. We can leverage this to install a special app to give permissions
@@ -35,11 +35,11 @@ We need to download a custom recovery image for your phone model.
 There are many cool looking alternatives, I used TWRP
 and It can be downloaded from the official website. Note that you
 need to choose the right version based on your phone.
-I downloaded the .img file, compressed it in a tar archive and renamed
+I downloaded the `.img` file, compressed it in a tar archive and renamed
 it `recovery.tar`.
 
 ```
-wget .../something.img
+wget https://.../something.img
 tar -cf something.tar something.img
 mv something.img recovery.zip
 ```
@@ -55,7 +55,7 @@ on your udev, just foollow closely the help output and you should be good to go.
 
 Then load the recovery mode with `odin4 -a recovery.zip` and, IMMEDIATELY
 after it finishes, you need to boot in recovery mode, which on my phone
-is `VOL_UP + HOME + POWER`. You need to be QUICK, REQLLY QUICK!!! Keep
+is `VOL_UP + HOME + POWER`. You need to be QUICK, REALLY QUICK!!! Keep
 trying until you manage to do this. If everything was succesfull, you are
 now greeted with a cool recovery program.
 
@@ -80,6 +80,6 @@ You can check this by installing RootChecker.
 ## 3. Enjoy the power
 
 Now that you are root you can do a bunch of cool things like wipe out
-everything and install gentoo. A more useful thing would be to isntall
+everything and install gentoo. A more useful thing would be to install
 an adblocker (i suggest `adAway`) so that you can actually read blogs
 and news in peace.
