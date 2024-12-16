@@ -83,3 +83,25 @@ Now that you are root you can do a bunch of cool things like wipe out
 everything and install gentoo. A more useful thing would be to install
 an adblocker (i suggest `adAway`) so that you can actually read blogs
 and news in peace.
+
+
+# Installing an alternative OS
+
+There are plenty of alternatives and variations of Android out there,
+the only constraint is that they need to support your phone.
+You could theoretically make your own build but I have no idea
+how you would resolve drivers. I aplogise for my ignorance, you'll
+have to figure It out some day.
+I found [this](https://xdaforums.com/t/rom-signature-spoofing-unofficial-stable-lineageos-17-1-for-j5-2016.4070629/)
+unofficial build of /e/OS, hopefully the liks still works.
+
+After you have installed the custom recovery media, you can
+start the sideload just as you did for Makisk in the previous
+section, and load the downloaded archive. That is really it,
+you should have a working OS.
+If the process fails and you cannot boot the OS correctly, you
+should be able to access the recovery mode on startup assuming
+that you can turn off your device. In my experience, when the
+boot broke, I could not power It off so I just removed the
+battery and rebooted. Unfortunately, you cannot do this in new phones (sight),
+so you may try to make It discharge until ti powerd off, gook luck.
