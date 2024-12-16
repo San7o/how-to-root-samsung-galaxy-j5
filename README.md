@@ -1,4 +1,4 @@
-# How to Root a Samsung Galaxy J6 (2016)
+# How to Root a Samsung Galaxy J5 (2016)
 
 Rooting android your first time is a frustrating experience at best,
 with lots of bad tutorials and guides that lead to nowhere.
