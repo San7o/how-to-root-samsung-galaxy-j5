@@ -92,7 +92,7 @@ the only constraint is that they need to support your phone.
 You could theoretically make your own build but I have no idea
 how you would resolve drivers. I aplogise for my ignorance, you'll
 have to figure It out some day.
-I found [this](https://xdaforums.com/t/rom-signature-spoofing-unofficial-stable-lineageos-17-1-for-j5-2016.4070629/)
+I found [this](https://community.e.foundation/t/unofficial-builds-samsung-galaxy-j5-series-for-e-os-r/56461/3)
 unofficial build of /e/OS, hopefully the liks still works.
 
 After you have installed the custom recovery media, you can
